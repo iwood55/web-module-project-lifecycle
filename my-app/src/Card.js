@@ -2,6 +2,7 @@ import React from "react";
 import {UserDiv, InfoDiv} from './StyledComponents.js'
 
 class Card extends React.Component {
+    
 componentDidMount() {
     console.log("card component mounted");
 }
